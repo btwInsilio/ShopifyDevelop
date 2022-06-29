@@ -1,1 +1,1 @@
-# ShopifyDevelop
+# shopifydevelop
